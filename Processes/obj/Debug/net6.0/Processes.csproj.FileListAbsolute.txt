@@ -1,0 +1,15 @@
+D:\Learning\SystemProgramming\Processes\bin\Debug\net6.0\Processes.exe
+D:\Learning\SystemProgramming\Processes\bin\Debug\net6.0\Processes.deps.json
+D:\Learning\SystemProgramming\Processes\bin\Debug\net6.0\Processes.runtimeconfig.json
+D:\Learning\SystemProgramming\Processes\bin\Debug\net6.0\Processes.dll
+D:\Learning\SystemProgramming\Processes\bin\Debug\net6.0\Processes.pdb
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.csproj.AssemblyReference.cache
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.AssemblyInfoInputs.cache
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.AssemblyInfo.cs
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.dll
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\refint\Processes.dll
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.pdb
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\Processes.genruntimeconfig.cache
+D:\Learning\SystemProgramming\Processes\obj\Debug\net6.0\ref\Processes.dll
