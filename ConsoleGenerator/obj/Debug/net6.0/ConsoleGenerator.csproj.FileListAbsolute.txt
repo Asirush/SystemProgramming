@@ -1,0 +1,15 @@
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.csproj.AssemblyReference.cache
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.AssemblyInfoInputs.cache
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.AssemblyInfo.cs
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming\ConsoleGenerator\bin\Debug\net6.0\ConsoleGenerator.exe
+D:\Learning\SystemProgramming\ConsoleGenerator\bin\Debug\net6.0\ConsoleGenerator.deps.json
+D:\Learning\SystemProgramming\ConsoleGenerator\bin\Debug\net6.0\ConsoleGenerator.runtimeconfig.json
+D:\Learning\SystemProgramming\ConsoleGenerator\bin\Debug\net6.0\ConsoleGenerator.dll
+D:\Learning\SystemProgramming\ConsoleGenerator\bin\Debug\net6.0\ConsoleGenerator.pdb
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.dll
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\refint\ConsoleGenerator.dll
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.pdb
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ConsoleGenerator.genruntimeconfig.cache
+D:\Learning\SystemProgramming\ConsoleGenerator\obj\Debug\net6.0\ref\ConsoleGenerator.dll
