@@ -1,0 +1,15 @@
+D:\Learning\SystemProgramming\ProgressBars\bin\Debug\ProgressBars.exe.config
+D:\Learning\SystemProgramming\ProgressBars\bin\Debug\ProgressBars.exe
+D:\Learning\SystemProgramming\ProgressBars\bin\Debug\ProgressBars.pdb
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.csproj.AssemblyReference.cache
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\MainWindow.g.cs
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\App.g.cs
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars_MarkupCompile.cache
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars_MarkupCompile.lref
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\MainWindow.baml
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.g.resources
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.Properties.Resources.resources
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.csproj.GenerateResource.cache
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.csproj.CoreCompileInputs.cache
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.exe
+D:\Learning\SystemProgramming\ProgressBars\obj\Debug\ProgressBars.pdb
